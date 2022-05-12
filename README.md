@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MrAjaybabu
 - 👀 I’m interested in Full Stak Devolopment
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +91 9133811586
+- 📫 to reach me +91 9133811586
 
 <!---
 MrAjaybabu/MrAjaybabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
